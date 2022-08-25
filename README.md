@@ -1,5 +1,5 @@
 # UndPay
-Learn how To create your own FUD tool it's a simple tutorial not a advanced Tool  
+Learn how To create your own FUD tool it's a simple tutorial not an advanced Tool  
  # install it in linux 
  * sudo apt update && apt upgrade
  * git clone https://github.com/DHK-Tn/UndPay.git 
