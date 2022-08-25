@@ -1,6 +1,5 @@
 # UndPay
-a tool created By DHK-Tn 
-allowed to make un undectable backdoor for windows 
+Learn how To create your own FUD tool it's a simple tutorial not a advanced Tool  
  # install it in linux 
  * sudo apt update && apt upgrade
  * git clone https://github.com/DHK-Tn/UndPay.git 
